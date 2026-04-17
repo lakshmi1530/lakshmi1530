@@ -1,6 +1,6 @@
 <h1 align="center">Mukkamalla Lakshmi Pratyusha</h1>
 <p align="center">
-AWS DevOps Engineer · Cloud Infrastructure · Automation
+AWS DevOps Engineer · DevSecOps Engineer · Platform Engineer
 </p>
 
 <p align="center">
