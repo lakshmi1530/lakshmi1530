@@ -7,7 +7,7 @@ AWS DevOps Engineer · DevSecOps Engineer · Platform Engineer
 <b>4.6+ Years Experience</b> • <b>99.9% Uptime</b> • <b>CI/CD & Infrastructure Automation</b>
 </p>
 
-<img src="https://canva.link/txvy66cveik4alg" alt="Banner Alt Text" width="100%" align="center">
+
 
 ---
 
